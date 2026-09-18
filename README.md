@@ -57,7 +57,7 @@ hardware/boards/usb-c-breakout/
 ├── 3d-models/
 └── fabrication/
 ```
-It will also typically have its own symbol and footprint library including any combination of both external and common components.
+It will also have its own symbol and footprint library including any combination of both external and common components.
 ### KiCad Project Files
 
 | File         | Description        |
@@ -80,7 +80,7 @@ Board-specific 3D models are stored in the board's `3d-models/` directory.
 └── <board-name>.step
 ```
 
-Reusable component 3D models should instead be stored with their corresponding component under `common-components/`.
+Reusable component 3D models should also be stored with their corresponding component under `common-components/`.
 
 ### Fabrication Files
 
@@ -125,7 +125,7 @@ Keeping the symbol, footprint, and 3D model together makes components easy to fi
 
 A component should be placed in `common-components/` when it is intended to be reused by multiple PCB projects.
 
-Components that are unique to a single PCB should generally remain with that PCB project (this will likely be very few components).
+**Note that every individual PCB project should maintain its own symbols and footprints in its project files. The Common Components are meant to provide easy access to them**
 
 Each component should use a descriptive directory name and consistent filenames:
 
@@ -373,7 +373,7 @@ Describe the purpose of the board and what it is intended to do.
 
 ### Keep Boards Self-Contained
 
-Each board should contain the resources that are specific to that board.
+Each board should contain **all** resources for to that board.
 
 ```text
 boards/my-board/
@@ -394,6 +394,7 @@ If a component is likely to be used by multiple boards, place its KiCad resource
 ```text
 hardware/common-components/<component-name>/
 ```
+Remember that this serves as a common **copy** for these resources. individual PCB directories should not depend on them, they should instead copy them into their own project files.
 
 ### Generated Files
 
@@ -417,9 +418,8 @@ When adding a new PCB:
 4. Add a PCB-specific `README.md`.
 5. Add board-specific 3D models under `3d-models/`.
 6. Add fabrication outputs under `fabrication/` when appropriate.
-7. Place reusable components in `common-components/`.
-8. Run electrical rules checks and design-rule checks.
-9. Update the board documentation and revision information.
+7. Run electrical rules checks and design-rule checks.
+8. Update the board documentation and revision information.
 
 ## Licensing
 
