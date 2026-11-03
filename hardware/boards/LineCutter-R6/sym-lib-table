@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fcb_v2_lib")(type "KiCad")(uri "${KIPRJMOD}/../fcb_v2_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM-20948")(type "KiCad")(uri "${KIPRJMOD}/library/ICM-20948.kicad_sym")(options "")(descr ""))
+  (lib (name "MS860702BA01-50")(type "KiCad")(uri "${KIPRJMOD}/library/MS860702BA01-50.kicad_sym")(options "")(descr ""))
+  (lib (name "ATSAMD21G18A-MU")(type "KiCad")(uri "${KIPRJMOD}/symbols/ATSAMD21G18A-MU.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-327ATQMV-AS-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ECS-327ATQMV-AS-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "ABS07-32.768KHZ-T")(type "KiCad")(uri "${KIPRJMOD}/symbols/ABS07-32.768KHZ-T.kicad_sym")(options "")(descr ""))
+  (lib (name "ZX62-AB-5PA")(type "KiCad")(uri "${KIPRJMOD}/symbols/ZX62-AB-5PA_31_.kicad_sym")(options "")(descr ""))
+)

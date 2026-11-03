@@ -1,0 +1,935 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "06068e34-0a11-447a-a178-341947fa0df8")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 96.52 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0fddaec9-b428-4507-a916-c09efbd1021e")
+	)
+	(junction
+		(at 99.06 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b19130a-a286-43d6-a38e-93a381d40d59")
+	)
+	(junction
+		(at 93.98 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c319967c-d032-4798-a037-e2911ddfc6a1")
+	)
+	(junction
+		(at 208.28 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed74b351-b613-4a0d-9b4f-a78428c1d8e6")
+	)
+	(wire
+		(pts
+			(xy 208.28 73.66) (xy 215.9 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09c55d3c-6b66-4725-af72-b7d3f73fe5b9")
+	)
+	(wire
+		(pts
+			(xy 208.28 58.42) (xy 208.28 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0edd3242-2b27-4c40-95cd-9a0acbfcbd3a")
+	)
+	(wire
+		(pts
+			(xy 73.66 40.64) (xy 96.52 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "171f090f-9010-410d-af92-80a850ab1a8f")
+	)
+	(wire
+		(pts
+			(xy 147.32 88.9) (xy 162.56 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21616938-c480-464d-b638-9f6ce12c9e10")
+	)
+	(wire
+		(pts
+			(xy 147.32 86.36) (xy 162.56 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24b43ea5-c69e-4ba5-b7d4-8b025836f6e6")
+	)
+	(wire
+		(pts
+			(xy 147.32 38.1) (xy 215.9 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26de4fa8-cce4-42ff-9c75-efd43d80485c")
+	)
+	(wire
+		(pts
+			(xy 73.66 30.48) (xy 111.76 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a5aebf9-aaa1-4dce-bfd5-f6b2973502f5")
+	)
+	(wire
+		(pts
+			(xy 73.66 106.68) (xy 93.98 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "414f01fa-fb65-4afb-bf0f-0edd7047d9f1")
+	)
+	(wire
+		(pts
+			(xy 96.52 40.64) (xy 96.52 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b9ce70a-4cca-494c-ab52-6401cc768c24")
+	)
+	(wire
+		(pts
+			(xy 93.98 38.1) (xy 111.76 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e49a21f-e47f-4f68-826f-10b333b872b5")
+	)
+	(wire
+		(pts
+			(xy 96.52 40.64) (xy 111.76 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63116129-36c8-4216-98cf-49be1916ddc2")
+	)
+	(wire
+		(pts
+			(xy 73.66 48.26) (xy 111.76 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76cf8fee-20ac-407d-bc52-d56bf34dee3e")
+	)
+	(wire
+		(pts
+			(xy 73.66 43.18) (xy 99.06 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77c6715a-21c0-4802-bcc7-585c574efca6")
+	)
+	(wire
+		(pts
+			(xy 208.28 58.42) (xy 215.9 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78bb83b5-444f-4033-bcd2-276591c11772")
+	)
+	(wire
+		(pts
+			(xy 147.32 58.42) (xy 208.28 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b4c617e-5092-4b51-91fd-348717660145")
+	)
+	(wire
+		(pts
+			(xy 147.32 93.98) (xy 162.56 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d33d21b-19d4-4dff-8db7-4161d48e57a4")
+	)
+	(wire
+		(pts
+			(xy 73.66 99.06) (xy 111.76 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e830f40-8ec6-404d-b3a2-95983eadacdc")
+	)
+	(wire
+		(pts
+			(xy 93.98 38.1) (xy 93.98 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a36bc208-7047-4a7f-9db2-38785a5e7389")
+	)
+	(wire
+		(pts
+			(xy 99.06 43.18) (xy 111.76 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abaf0ba4-6992-46ec-9805-0cc7ce75959b")
+	)
+	(wire
+		(pts
+			(xy 73.66 109.22) (xy 96.52 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1fc7365-dea3-4921-be1a-9208ef7dcb14")
+	)
+	(wire
+		(pts
+			(xy 73.66 111.76) (xy 99.06 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b23dda53-5b03-4f16-bf31-432e9ef03222")
+	)
+	(wire
+		(pts
+			(xy 147.32 96.52) (xy 162.56 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be6cdc75-f8e5-48ba-8fdb-00f2f821abd1")
+	)
+	(wire
+		(pts
+			(xy 73.66 38.1) (xy 93.98 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d542215c-37c5-4400-8339-3836872e720f")
+	)
+	(wire
+		(pts
+			(xy 73.66 33.02) (xy 111.76 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5bca891-d9d7-48a3-95ed-c5b6a99884d3")
+	)
+	(wire
+		(pts
+			(xy 147.32 78.74) (xy 162.56 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db705b2d-64cf-41b0-a5e8-5f25d000e01a")
+	)
+	(wire
+		(pts
+			(xy 147.32 35.56) (xy 215.9 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e908df1e-4fa3-40c8-86ef-dfa23c354ff9")
+	)
+	(wire
+		(pts
+			(xy 99.06 43.18) (xy 99.06 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f309dc21-9557-4f67-8d78-b96316ff7e72")
+	)
+	(wire
+		(pts
+			(xy 193.04 91.44) (xy 215.9 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "facfdb0a-e77b-4ca9-a910-60632c2386bf")
+	)
+	(wire
+		(pts
+			(xy 193.04 83.82) (xy 215.9 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fec3ee91-48f8-451a-aa53-3238fcce3cf2")
+	)
+	(sheet
+		(at 162.56 73.66)
+		(size 30.48 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3ca17516-0364-45ef-8dce-4a48510da345")
+		(property "Sheetname" "Pyros and Servos"
+			(at 162.56 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pyros_servos.kicad_sch"
+			(at 162.56 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PYRO_PWR_RAW" input
+			(at 193.04 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e0f8f102-ea8f-4187-b657-6f704008215c")
+		)
+		(pin "SYS_BATT_SENSE" input
+			(at 193.04 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "139f94c2-85bf-41eb-bb93-9fc95e03c6ce")
+		)
+		(pin "BATT_SENSE_BUF" input
+			(at 162.56 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c2625d57-146c-4bbb-9ea2-d184145c74e4")
+		)
+		(pin "FIRE1" input
+			(at 162.56 86.36 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "280c5944-d81a-45e3-accb-523578913acb")
+		)
+		(pin "FIRE2" input
+			(at 162.56 88.9 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ec54fab9-47dc-4cf1-a31c-8baac1e61af1")
+		)
+		(pin "PYRO_SENSE2" input
+			(at 162.56 96.52 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "603e0260-e2bb-4bcd-a080-f077119b20c3")
+		)
+		(pin "PYRO_SENSE1" input
+			(at 162.56 93.98 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a809e4b8-97ca-4187-b696-ca8b0d5fe561")
+		)
+		(instances
+			(project "line_cutter_r5"
+				(path "/06068e34-0a11-447a-a178-341947fa0df8"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 22.86)
+		(size 25.4 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a9274b51-1c05-46c4-8b84-e2f9d22fc782")
+		(property "Sheetname" "USB Hub"
+			(at 215.9 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_hub.kicad_sch"
+			(at 215.9 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_VBUS_IN" input
+			(at 215.9 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4bcfa2e0-8b46-4348-866b-a72e601197d8")
+		)
+		(pin "USB_D+" input
+			(at 215.9 35.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ad96da07-4fad-4be2-8489-9b21ec6ef1b9")
+		)
+		(pin "USB_D-" input
+			(at 215.9 38.1 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d6fcef55-4419-4255-bc28-93ed840fdebb")
+		)
+		(instances
+			(project "line_cutter_r5"
+				(path "/06068e34-0a11-447a-a178-341947fa0df8"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 17.78)
+		(size 30.48 58.42)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c1b70c6e-3b1f-4add-89f1-b15bcddb50ae")
+		(property "Sheetname" "Sensors"
+			(at 43.18 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 43.18 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IMU1_CS" input
+			(at 73.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "da0f0ac5-4027-4421-a209-dc5ba203460d")
+		)
+		(pin "SPI_SCK" input
+			(at 73.66 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "24e2995b-5e91-4a73-a50b-1dc862f47359")
+		)
+		(pin "SPI_MISO" input
+			(at 73.66 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e52d531c-5cad-4682-980a-95fe767867f6")
+		)
+		(pin "SPI_MOSI" input
+			(at 73.66 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cca6b682-9030-469b-b214-a4cbf2fe651b")
+		)
+		(pin "BARO1_CS" input
+			(at 73.66 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1115bf16-24f2-4437-8f6a-4dfa2b917ad0")
+		)
+		(pin "LIGHT_SENSE_BUF" input
+			(at 73.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7d33d860-9b79-4e25-a646-dba28b8854b8")
+		)
+		(instances
+			(project "line_cutter_r5"
+				(path "/06068e34-0a11-447a-a178-341947fa0df8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 27.94)
+		(size 35.56 86.36)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f64c3d26-e4b8-44e0-bbdf-81617bdf4316")
+		(property "Sheetname" "Main MCU"
+			(at 111.76 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 111.76 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FLASH_CS" input
+			(at 111.76 99.06 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "54208c6c-d20c-4128-a052-e4730f47aa20")
+		)
+		(pin "SPI_MOSI" input
+			(at 111.76 40.64 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "43df7a27-02c1-46d4-a21b-f10bd54978b4")
+		)
+		(pin "SPI_MISO" input
+			(at 111.76 38.1 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "118fb54b-536c-4225-879b-117137748f92")
+		)
+		(pin "SPI_SCK" input
+			(at 111.76 43.18 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "82e90f51-88f8-474e-9e4f-56941639d9e1")
+		)
+		(pin "FIRE1_PWM" input
+			(at 147.32 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5b57b2c2-eb14-455e-81c0-9ca2fa7697ba")
+		)
+		(pin "FIRE2_PWM" input
+			(at 147.32 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "667044e5-e513-4ff4-be31-f7022b505ff1")
+		)
+		(pin "VBATT_SENSE_IN" input
+			(at 147.32 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "175aafc9-f02e-435a-a01c-8ae446e902e7")
+		)
+		(pin "VUSB" input
+			(at 147.32 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dfea6b80-2614-43d1-b118-294be8a2c733")
+		)
+		(pin "IMU1_CS" input
+			(at 111.76 33.02 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8abeb14d-7a3d-4955-9597-d0d37ab95dec")
+		)
+		(pin "BARO1_CS" input
+			(at 111.76 30.48 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ff553bbf-a41b-406a-b19d-2af2615b3176")
+		)
+		(pin "USB_D-" input
+			(at 147.32 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1b14f560-9a0a-4139-874c-e5292ebd0c3e")
+		)
+		(pin "USB_D+" input
+			(at 147.32 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0f1c8ca1-c560-4915-bc06-85e5f3b3a36d")
+		)
+		(pin "LIGHT_SENSE_BUF" input
+			(at 111.76 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9638df26-2df4-46e7-802a-78da087c3f81")
+		)
+		(pin "PYRO_SENSE_1" input
+			(at 147.32 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1d5ceb76-e92b-4685-aa19-af575059dfe6")
+		)
+		(pin "PYRO_SENSE_2" input
+			(at 147.32 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9a43d267-210c-4d4a-ba63-65b03fc9c405")
+		)
+		(instances
+			(project "line_cutter_r5"
+				(path "/06068e34-0a11-447a-a178-341947fa0df8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 71.12)
+		(size 43.18 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f7b26ddb-14db-4d4c-b8bf-a7e19b2d0228")
+		(property "Sheetname" "Power Supplies"
+			(at 215.9 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 215.9 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_5V_IN" input
+			(at 215.9 73.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b57f8b4b-13bf-42b9-8a77-12906af0f9f7")
+		)
+		(pin "BATT_IN" output
+			(at 215.9 83.82 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d0d18906-49b6-41b4-98b1-a33d00c1a863")
+		)
+		(pin "VBATT_SENSE" output
+			(at 215.9 91.44 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cceeefde-88f3-4663-837b-57d4d7b8733f")
+		)
+		(instances
+			(project "line_cutter_r5"
+				(path "/06068e34-0a11-447a-a178-341947fa0df8"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 91.44)
+		(size 30.48 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd559645-827a-4103-8dca-edd1b66ebee1")
+		(property "Sheetname" "Storage"
+			(at 43.18 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "storage.kicad_sch"
+			(at 43.18 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FLASH_CS" input
+			(at 73.66 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a9ecaf07-be13-4f93-813d-84c910d7402f")
+		)
+		(pin "FLASH_MISO" input
+			(at 73.66 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7db441b8-b260-4c93-b72b-c45218a9ab57")
+		)
+		(pin "FLASH_MOSI" input
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ea4e6c8f-2cae-4009-832a-c0ad7ac46c4d")
+		)
+		(pin "FLASH_SCK" input
+			(at 73.66 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "60acaf12-e928-471b-98a2-7d7c98b0630b")
+		)
+		(instances
+			(project "line_cutter_r5"
+				(path "/06068e34-0a11-447a-a178-341947fa0df8"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
