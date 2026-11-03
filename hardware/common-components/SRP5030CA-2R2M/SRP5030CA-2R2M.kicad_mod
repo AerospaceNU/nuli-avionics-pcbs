@@ -1,0 +1,113 @@
+(footprint "SRP5030CA-2R2M"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -3.81 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1f37345e-b1df-45fe-9ad3-3f857c8f1316")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SRP5030CA-2R2M"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "52047e88-1094-45fa-aa2d-26afa863d6b1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bcd274b2-bbd7-4942-a711-4ca85f8fab86")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor, small symbol"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "434f969f-bcc6-4d9a-81c4-1aad3523f4d0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start 2.85 2.75)
+		(end -2.85 -2.75)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "dec26c84-0908-407d-a78e-09a6d2e0d208")
+	)
+	(fp_rect
+		(start -3.16 -3.06)
+		(end 3.16 3.59825)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "06edbfae-e9aa-473a-b69b-e5f8f7925c35")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "33e9de7a-cc77-418f-8882-97a88b364751")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 1.625)
+		(size 4.7 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6da78cdc-6537-45be-bb0b-494e573be16e")
+	)
+	(pad "2" smd rect
+		(at 0 -1.625)
+		(size 4.7 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a13c4d72-bd40-4e6d-986a-b9da0ff73109")
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/SRP5030CA-2R2M/SRP5030CA-2R2M.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

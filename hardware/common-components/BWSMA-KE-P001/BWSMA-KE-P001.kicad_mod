@@ -1,0 +1,383 @@
+(footprint "BWSMA-KE-P001"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -4.443 -1.75 180)
+		(layer "F.SilkS")
+		(uuid "ae83c200-11d0-4c2d-ba05-977048e983a2")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "BWSMA-KE-P001"
+		(at 12.625 -5.135 180)
+		(layer "F.Fab")
+		(uuid "92a98b22-fd44-4882-b3d9-87401f225f18")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cbd28b7d-ee18-44b6-91a9-72dbc34b7240")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ef948ff-d6fa-4e5e-83de-1e812604ec58")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Bat Wireless"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0612a2f4-23f8-49ed-819d-5b5ba4fd0e0e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "6.5mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "974e6044-33e3-48dd-a61b-d45db68688e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "Package"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5bc31bf2-0b47-4d96-87f7-d8b56a6fbaa3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c53c5b26-1f43-42e9-b510-a33ccbff25c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/BWSMA-KE-P001/Bat+Wireless/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6dba7723-552b-4b76-9035-978316601788")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c0feace-e698-426a-93eb-e6d2fa9b28a9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "081a3e5d-e6b3-4bfd-aec0-a4a4a621a320")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/BWSMA-KE-P001/Bat+Wireless/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "445650e3-56ff-4f5b-8773-c2faaf9f95b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "BWSMA-KE-P001"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "05c6aecc-6dbf-4b58-ad0d-4d4b49f0c1d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "5.2mm Plugin RF Connectors"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0896f92d-e0a0-400e-813a-65f93b767594")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "Not in stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "26dc315b-3645-4b44-a8fa-b70c8478e578")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Bat Wireless"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8c802fe3-e529-4ee7-82c2-6ad1eeaa0e86")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C496550"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95ae037c-8353-456a-8618-85e528ad2ac2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Rotation" "-90"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7bde002e-cf76-414e-a1ae-1baf3689c355")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.5 -4.45)
+		(end -3.5 9.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "12c9a16f-3822-44ad-85c0-97f14882f81c")
+	)
+	(fp_line
+		(start -3.5 9.75)
+		(end 3.5 9.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2db989c0-4024-4d60-975c-38eca5575947")
+	)
+	(fp_line
+		(start 3.5 -4.45)
+		(end -3.5 -4.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7370033d-fb09-49f2-b08c-2c2517690442")
+	)
+	(fp_line
+		(start 3.5 9.75)
+		(end 3.5 -4.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9b5fe964-866a-44c3-ba3a-a991d0c1a2d1")
+	)
+	(fp_line
+		(start -3.25 0)
+		(end 3.25 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f5e4577c-d27c-458a-9eff-a0e2a2eeb8d8")
+	)
+	(fp_line
+		(start -3.25 9.5)
+		(end -3.25 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c48cf968-b076-44c7-9d87-9bd8e819b3fe")
+	)
+	(fp_line
+		(start 3.25 0)
+		(end 3.25 9.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "08970b3c-60ef-4a76-8c06-8825f14c5fad")
+	)
+	(fp_line
+		(start 3.25 0)
+		(end 11 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "656736f5-bd09-4bb2-81ff-d51d1e7f81cb")
+	)
+	(fp_line
+		(start 3.25 9.5)
+		(end -3.25 9.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0826081e-92a1-4b74-8330-e5f052bf1add")
+	)
+	(fp_text user "PCB EDGE"
+		(at 3.75 -0.25 180)
+		(layer "F.Fab")
+		(uuid "c5a2ab2f-6269-4da8-930e-b99c4a8484ea")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 -2.1)
+		(size 1.6 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "46d5422f-e06b-4339-b5a6-77659270b34e")
+	)
+	(pad "G1" smd rect
+		(at -2.55 -2.1)
+		(size 1.3 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "d1d5713e-868c-4db1-bb0f-568a800e8948")
+	)
+	(pad "G2" smd rect
+		(at 2.55 -2.1)
+		(size 1.3 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "fba2be09-d0d0-49a3-93c7-d838507259c9")
+	)
+	(pad "G3" smd rect
+		(at 2.55 -2.1)
+		(size 1.3 4.2)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "18c0fd1b-0ebe-4e4b-9d0a-8e015bf829fc")
+	)
+	(pad "G4" smd rect
+		(at -2.55 -2.1)
+		(size 1.3 4.2)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "de7301ee-3ead-4b0d-9474-e693855b0a7a")
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/BWSMA-KE-P001/BWSMA-KE-P001.step"
+		(offset
+			(xyz 0 0 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 90 -0)
+		)
+	)
+)

@@ -1,0 +1,124 @@
+(footprint "CHS-01TA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.9 4 90)
+		(layer "F.SilkS")
+		(uuid "bf1f6a8b-0bdf-47a7-88cb-51d131ed676b")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CHS-01TA"
+		(at 0.839974 4.253187 0)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "4a857fd3-8091-4f50-a074-c6b0ad9f3a47")
+		(effects
+			(font
+				(size 0.480902 0.480902)
+				(thickness 0.120226)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5208261d-fc86-4591-bdc2-c2d98735cbcc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "977961fa-34a6-4bbc-aa7e-92c52dd2a64d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C2758165"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "272c8942-7360-4304-9188-b6f21e7a9f35")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1.5635 -3.59)
+		(end 1.5635 3.59)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "5b58a8b6-3659-423e-84ad-0dd8f1187237")
+	)
+	(fp_line
+		(start -1.25 -2.8)
+		(end -1.25 2.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c3285e0b-162f-4e19-887f-732d410da5fb")
+	)
+	(fp_line
+		(start 1.25 -2.8)
+		(end 1.25 2.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6cb7abe3-eeb2-43bc-b46e-9a19aaca7f47")
+	)
+	(pad "1" smd rect
+		(at 0 2.54)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "694224a2-cac0-4beb-9fb0-b051ef170d15")
+	)
+	(pad "2" smd rect
+		(at 0 -2.54)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "27c9db86-3abc-4685-906d-96d40a8e23ce")
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/CHS-01TA/CHS-01TA.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)

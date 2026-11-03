@@ -1,0 +1,331 @@
+(footprint "FDN306P"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SuperSOT-3")
+	(property "Reference" "REF**"
+		(at 0 -2.3125 0)
+		(layer "F.SilkS")
+		(uuid "e740084c-a754-47b7-b970-3cad44a95114")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "FDN306P"
+		(at 0.533887 2.771121 0)
+		(layer "F.Fab")
+		(uuid "b07a57e7-cb1b-4d11-b76e-db4dc467b8d2")
+		(effects
+			(font
+				(size 0.640582 0.640582)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b7a3131-5ddb-4199-81a2-2e486df00b75")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a9619606-d37f-4c45-98ba-0f90a6bdec7f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "onsemi"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "183f83ea-371f-4a6c-aaff-6b4dd41008c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\n                        \n                            P-Channel 12 V 2.6A (Ta) 500mW (Ta) Surface Mount SOT-23-3\n                        \n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "adc83c81-6fe2-4a15-8872-afd641f5061c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "957acf12-2e58-4df3-9dde-7d993de6b7cd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02aec156-74fd-435e-aba9-f19bbf604368")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/FDN306P/Onsemi/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "114837de-8bef-45ab-a23f-e46841855a13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "FDN306P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cbf6cdc5-ec66-4b2f-b963-383f8612cbb7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c5bf0b6-85a5-4b07-8b87-04ff85570fd7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/FDN306P/Onsemi/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0344e7e-08e8-45de-a230-a67a09bcf20d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C15127"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0fdcf5ef-0f9e-4945-9b1c-bfb8076473f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.4224 -0.6604)
+		(end -0.7636 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "901d17f8-c7bb-410c-8945-df90061b7994")
+	)
+	(fp_line
+		(start -1.4224 0.1524)
+		(end -1.4224 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "04fc553a-a029-4658-a4fc-6dbc8b164cfe")
+	)
+	(fp_line
+		(start 0.7636 -0.6604)
+		(end 1.4224 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b69b00f4-babd-4373-a5d4-14fd4b7259e7")
+	)
+	(fp_line
+		(start 1.4224 -0.6604)
+		(end 1.4224 0.1524)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0a13539-ac4e-4888-8ee1-028c37f772d2")
+	)
+	(fp_rect
+		(start -1.774 -2.05)
+		(end 1.774 2.05)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "e03b2302-0882-4671-8070-40e51254f218")
+	)
+	(fp_line
+		(start -1.4224 -0.6604)
+		(end 1.4224 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "274bb8d5-81a4-4a80-9fea-471c664ae0db")
+	)
+	(fp_line
+		(start -1.4224 0.6604)
+		(end -1.4224 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "22e6cc26-8db7-46ba-84c3-12de1774d908")
+	)
+	(fp_line
+		(start 1.4224 -0.6604)
+		(end 1.4224 0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "205c5010-f436-43e9-ad38-750d00e539a2")
+	)
+	(fp_line
+		(start 1.4224 0.6604)
+		(end -1.4224 0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5c8a755-22dd-4142-bd07-89866e943474")
+	)
+	(fp_poly
+		(pts
+			(xy -1.16991 0.7112) (xy -0.7112 0.7112) (xy -0.7112 1.29708) (xy -1.16991 1.29708)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "fff4ee5f-572c-487b-8f51-3c3e898dcd87")
+	)
+	(fp_poly
+		(pts
+			(xy -0.228777 -1.2954) (xy 0.2286 -1.2954) (xy 0.2286 -0.71175) (xy -0.228777 -0.71175)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "a5d97956-9e41-45ef-9033-6a7e4e1db4ca")
+	)
+	(fp_poly
+		(pts
+			(xy 0.712513 0.7112) (xy 1.1684 0.7112) (xy 1.1684 1.29779) (xy 0.712513 1.29779)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "81406a09-a183-41e1-9294-c24466649bd0")
+	)
+	(pad "1" smd rect
+		(at -0.95 1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "0b7b586a-0a03-4be5-92cb-705a255d49c4")
+	)
+	(pad "2" smd rect
+		(at 0.95 1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "fd4984b7-62f9-42ef-a619-ccc2ba9e0184")
+	)
+	(pad "3" smd rect
+		(at 0 -1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "1c490ab8-89de-4e83-90f9-5c8018701ca2")
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/FDN306P/FDN306P.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)

@@ -1,0 +1,350 @@
+(footprint "ML414H_IV01E"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -4.4808 -2.849 0)
+		(layer "F.SilkS")
+		(uuid "c76dd730-0658-494d-bda7-821f87130d1b")
+		(effects
+			(font
+				(size 1.402244 1.402244)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ML414H_IV01E"
+		(at 12.19213 4.19105 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1cf5a901-a217-4399-85ba-34d9a85e34d2")
+		(effects
+			(font
+				(size 1.400016 1.400016)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7171afa-0cb7-439d-bd25-169e4abf3901")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4189c96e-4666-43cc-9ac2-3152ac8c8abc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Seiko Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f00c64b6-6b2d-4339-8943-dee799abaf05")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Coin, 4.8mm 3 V Lithium Battery Rechargeable (Secondary) 1mAh"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39427c8e-1022-4080-8062-60906f79f4e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "SOT-89 Seiko"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5da1cbaa-0e04-4be0-9e27-5f52d83fc0b8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66595416-6622-4c28-9b60-e20f77113e81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/ML414H%20IV01E/Seiko/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f8797fd-d340-4cf6-b636-e5649defaf70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendation"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "28773577-eccc-4014-b55d-99e43ab315aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/ML414H%20IV01E/Seiko/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f62c3d29-c4bd-4263-bdf5-265792f51148")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "ML414H IV01E"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b7f1dbc-6981-4f00-9749-0bacc79a7859")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a99be751-da54-4fc1-8f45-a5669192ceb5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "SEIKO"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "951a2f98-230d-48dd-8226-306ce905224c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy 0 -2.8) (xy 2.8 -2.8) (xy 2.8 0)
+		)
+		(stroke
+			(width 0.0001)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "4672c33f-54fd-4ed5-85aa-184813f13fdd")
+	)
+	(fp_arc
+		(start -1.75 1.639999)
+		(mid -2.19472 -0.984702)
+		(end 0.06 -2.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5ac69221-c965-44d1-8d9e-bbdc7198fa85")
+	)
+	(fp_arc
+		(start 2.41 -0.217)
+		(mid 2.3808 0.313062)
+		(end 2.26 0.83)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc700362-a7e9-47ab-ac21-c94269909944")
+	)
+	(fp_poly
+		(pts
+			(xy 0.3 -2.7) (xy 2.7 -2.7) (xy 2.7 -0.3)
+		)
+		(stroke
+			(width 0.0001)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "88d625d2-9617-40a7-aa11-3da65ba5afc5")
+	)
+	(fp_line
+		(start -2.65 -2.95)
+		(end 2.95 -2.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ff1e5b14-d843-4fa0-88d9-f0f61268af30")
+	)
+	(fp_line
+		(start -2.65 2.95)
+		(end -2.65 -2.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ff797e61-bfc0-4cde-a8be-98c321df57e7")
+	)
+	(fp_line
+		(start 2.95 -2.95)
+		(end 2.95 2.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0b165ea4-b689-431f-86c6-d4b492ebf209")
+	)
+	(fp_line
+		(start 2.95 2.95)
+		(end -2.65 2.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b837348f-ec7d-4769-8fe5-f9b3c369b3ce")
+	)
+	(fp_line
+		(start 0 -2.4)
+		(end 2.4 -2.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c6e10bf4-e558-4321-8ecd-aabd1016279a")
+	)
+	(fp_line
+		(start 2.4 -2.4)
+		(end 2.4 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a62a0b29-4510-4fcf-9c0f-87ab8d1028ae")
+	)
+	(fp_arc
+		(start 2.4 0)
+		(mid -1.697056 1.697056)
+		(end 0 -2.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd4e3984-ba9b-4b8f-a344-0f259deb726a")
+	)
+	(fp_text user "+"
+		(at 3.30504 -0.762702 0)
+		(layer "F.SilkS")
+		(uuid "6e5e4542-3421-4418-af11-7dfa157fee15")
+		(effects
+			(font
+				(size 1.401291 1.401291)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at 2.1 -2.1)
+		(size 1 1)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -1.8 -0.6) (xy 0.6 -0.6) (xy 0.6 1.8)
+				)
+				(width 0.0001)
+				(fill yes)
+			)
+		)
+		(uuid "74d791bc-6a61-494e-acc1-25e875261b89")
+	)
+	(pad "2" smd rect
+		(at 0.65 1.85)
+		(size 4.1 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "6467d431-3e76-4272-839a-4e0a4803c1fb")
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/ML414H_IV01E/ML414H_IV01E.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

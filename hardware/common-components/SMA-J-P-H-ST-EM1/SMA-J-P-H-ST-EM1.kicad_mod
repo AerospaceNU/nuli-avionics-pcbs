@@ -1,0 +1,490 @@
+(footprint "SMA-J-P-H-ST-EM1"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -4.445 -0.2 90)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "00412bba-be5f-4887-9776-b4b19d40ab3b")
+		(effects
+			(font
+				(size 1 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "SMA-J-P-H-ST-EM1"
+		(at 4 6.4375 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "866f8487-e651-47e8-9993-6110cea26d59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1310ad21-494a-446f-b07f-2318e8dacace")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1dfd01b3-4081-492c-ae4b-6ff0953f7373")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Samtec"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3799cb08-fffa-4562-a250-47e60b157f08")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "3.675mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c6abb87-fe8f-4ff3-b817-ce2d509e32c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b012b41-a60f-41a3-ab35-ad2c7d8e8687")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91103aee-15b4-4436-9b36-99c3bdb981ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/SMA-J-P-H-ST-EM1/Samtec+Inc./view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "257ed26f-31e4-465e-8c9a-43d1478b4ec8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a002d583-0fa5-4b32-b9bb-e9adaa319275")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "G"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37846171-fa43-4049-9af6-37263131fe1e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/SMA-J-P-H-ST-EM1/Samtec+Inc./view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a133bb8-5726-44f7-8fb5-fbe66d4d153d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "SMA-J-P-H-ST-EM1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04e3cb7e-030d-4668-93d6-3ee1caa3c7ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\n                        \n                            SMA Connector Jack, Female Socket 50 Ohms Board Edge, End Launch Solder\n                        \n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9914d2f1-d0f3-4ea8-8825-2d7f5f4b64f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f116b6c-8f85-4c8b-ac63-1dbd00a734ba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Samtec"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f67f328-2d54-4992-b47a-e5392289431e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.8 -1.91)
+		(end -1 -1.91)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "46174205-8cd6-4a67-937e-006ae87df5e1")
+	)
+	(fp_line
+		(start -1.8 1.9)
+		(end -1 1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "126e4c01-4337-4866-ad01-81b42af8ed88")
+	)
+	(fp_line
+		(start 1 -1.91)
+		(end 1.8 -1.91)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de602b18-5e31-466c-81ec-0fb371742ea7")
+	)
+	(fp_line
+		(start 1 1.9)
+		(end 1.8 1.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "76619577-862f-426a-879e-950367a98921")
+	)
+	(fp_circle
+		(center 0.03 -2.62)
+		(end 0.13 -2.62)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b0bea9ba-2d48-45c6-9eb0-aae979139f36")
+	)
+	(fp_line
+		(start -3.75 -2.55)
+		(end 3.75 -2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0463420a-15fa-436e-8c95-fd3ecfb4c87d")
+	)
+	(fp_line
+		(start -3.75 2.15)
+		(end -3.75 -2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8f3adf2-62ac-434e-ba17-1e7235b380f2")
+	)
+	(fp_line
+		(start -3.415 2.15)
+		(end -3.75 2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5982b2eb-b32c-48d3-be65-b4b82e5aeefb")
+	)
+	(fp_line
+		(start -3.415 11.67)
+		(end -3.415 2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "febb60f5-ca9b-4ced-91c3-f687157bc97b")
+	)
+	(fp_line
+		(start 3.415 2.15)
+		(end 3.415 11.67)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2b14eab3-057f-4c48-b3dc-3f84cd7c8f5b")
+	)
+	(fp_line
+		(start 3.415 11.67)
+		(end -3.415 11.67)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0bfb7d56-a2be-4d4c-a8b7-f1dce00443e4")
+	)
+	(fp_line
+		(start 3.75 -2.55)
+		(end 3.75 2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c3aba40b-5430-4e30-b9f5-c93b7592f944")
+	)
+	(fp_line
+		(start 3.75 2.15)
+		(end 3.415 2.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "50d8c043-80f3-4af6-bab8-ccfd1f961169")
+	)
+	(fp_line
+		(start -5 1.9)
+		(end -3.165 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f13c9820-2c8d-4261-8084-c75a70b9ca9e")
+	)
+	(fp_line
+		(start -3.175 -1.91)
+		(end 3.175 -1.91)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "648a14f3-ec31-43d2-ad87-7b829b9c801f")
+	)
+	(fp_line
+		(start -3.165 1.9)
+		(end -3.175 -1.91)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c8f62a1e-7ba0-450f-8d9c-fbba1f273f17")
+	)
+	(fp_line
+		(start -3.165 1.9)
+		(end 3.165 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "556c1efa-48a8-4c22-ab39-79a2d904fe4e")
+	)
+	(fp_line
+		(start -3.165 11.42)
+		(end -3.165 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "07663f10-47a4-4aad-9bd5-e07a2d4b1712")
+	)
+	(fp_line
+		(start 3.165 1.9)
+		(end 3.165 11.42)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aacacea5-d66e-4e3a-a382-004e9d1099c5")
+	)
+	(fp_line
+		(start 3.165 1.9)
+		(end 5 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "009a3d43-337f-46b4-bc89-df45b20d2226")
+	)
+	(fp_line
+		(start 3.165 11.42)
+		(end -3.165 11.42)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "068770a5-54bd-41cd-a7b5-80d9457202fa")
+	)
+	(fp_line
+		(start 3.175 -1.91)
+		(end 3.165 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f9d87df4-0d07-43cd-9662-a0e35ceedc4e")
+	)
+	(fp_circle
+		(center 0.03 -2.62)
+		(end 0.13 -2.62)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "0bed0804-63dd-4827-aee5-42f72293a644")
+	)
+	(pad "1" smd rect
+		(at 0 0)
+		(size 1.27 3.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "fafb1ffa-07bb-4990-8fc9-0b290992a1d0")
+	)
+	(pad "2_1" smd rect
+		(at -2.825 -0.2)
+		(size 1.35 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "e5465f75-03e0-4c36-8f65-3d8f1482b15e")
+	)
+	(pad "2_2" smd rect
+		(at -2.825 -0.2)
+		(size 1.35 4.2)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "8a9743e3-6e25-42b0-a354-7c9290d54cc4")
+	)
+	(pad "3_1" smd rect
+		(at 2.825 -0.2)
+		(size 1.35 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "a7e67f9b-f754-4953-a6ef-11151581bf1c")
+	)
+	(pad "3_2" smd rect
+		(at 2.825 -0.2)
+		(size 1.35 4.2)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "33cdbd17-5677-484c-863c-66cd17c48404")
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/SMA-J-P-H-ST-EM1/SMA-J-P-H-ST-EM1.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

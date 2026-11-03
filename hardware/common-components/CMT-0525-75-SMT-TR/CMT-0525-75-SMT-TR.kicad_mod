@@ -1,0 +1,440 @@
+(footprint "CMT-0525-75-SMT-TR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 270)
+		(layer "F.SilkS")
+		(uuid "f596bcbf-4306-4a5c-8850-471e611420a1")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CMT-0525-75-SMT-TR"
+		(at 6.8072 4.2164 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "450d5543-0676-4316-9d29-e347e1e8e345")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2622f2b4-4cde-4aee-aa5a-a05129f58bac")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f313b5b-bae7-4c9a-88fa-3d37d2312509")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Same Sky"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f570390-b6ab-4cd2-b584-c220a7278dcc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "2.80mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8ca1d24e-2cfb-4c5c-9799-2771b17a1836")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "CUI Devices"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f063873-1878-4f92-8f4b-c8619b67e05c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "300f5251-34a2-4b9d-a8fa-d2ea98129d34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/CMT-0525-75-SMT-TR/Same+Sky/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d93629e3-a5e6-4cf2-8598-096944d2f677")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4045855f-4a4f-4bec-b562-5486998ab560")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "1.0"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dcf6f6a8-eec1-47fd-9abb-ec52121edcd6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/CMT-0525-75-SMT-TR/Same+Sky/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9cd0508-bb07-4902-b7af-3ea73facb6d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "CMT-0525-75-SMT-TR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e1f50837-4248-4a79-b6d8-c2b67cc7d88f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\n                        \n                            5 mm, 3 Vo-p, 75 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer\n                        \n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "45daa035-77de-4dae-a278-4c05a0ffb661")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ab8e8437-e91c-466b-8fb3-2da603aaf73d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "CUI Inc."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb031651-3eef-4132-8dc6-a89c40e36469")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C409844"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86df1398-1d06-4270-aa18-8b020bc464dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.5 -1.15)
+		(end -2.5 1.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "da1b9a41-442e-4687-8480-788291057935")
+	)
+	(fp_line
+		(start -0.6 -2.5)
+		(end 0.9 -2.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "96e2b8d2-f2f3-4281-b77c-a4221cbf7e7b")
+	)
+	(fp_line
+		(start -0.6 2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "854342d2-4d66-4a29-9390-9b43b9d0e0d8")
+	)
+	(fp_line
+		(start 2.5 2.5)
+		(end 2.5 -1.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "59ee2418-26b2-4e9c-acc9-bfb65df8b66d")
+	)
+	(fp_line
+		(start -2.75 -3.25)
+		(end -2.75 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "93d1b4fd-f032-4fd8-8163-7e7c41ea9017")
+	)
+	(fp_line
+		(start -2.75 3.25)
+		(end -0.7 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "70f34335-582a-40d7-8dfe-b1e0ce48d32b")
+	)
+	(fp_line
+		(start -0.7 2.75)
+		(end 2.8 2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4c503526-cb13-4aa9-b287-a6f7a7905d4c")
+	)
+	(fp_line
+		(start -0.7 3.25)
+		(end -0.7 2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "192f2fe6-88ae-48f5-8187-4d4618f2784d")
+	)
+	(fp_line
+		(start 2.8 -3.25)
+		(end -2.75 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fc223b15-693e-4811-b400-932b9a93ab0b")
+	)
+	(fp_line
+		(start 2.8 2.75)
+		(end 2.8 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "414084e9-c6e3-46e1-aada-cce851fb5822")
+	)
+	(fp_line
+		(start -2.5 -2.5)
+		(end -2.5 2.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0a110633-b7ad-4ab0-8d45-87d6639678c2")
+	)
+	(fp_line
+		(start -2.5 2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "95d31d80-dbec-47e5-b6d0-0908760606b4")
+	)
+	(fp_line
+		(start 2.5 -2.5)
+		(end -2.5 -2.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3c30f511-a0a8-4b50-b932-c518e35cf24f")
+	)
+	(fp_line
+		(start 2.5 2.5)
+		(end 2.5 -2.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f78f7ddc-d94c-4e0a-b84b-a3004e63c0d7")
+	)
+	(fp_text user "-"
+		(at 0 1.905 0)
+		(layer "F.SilkS")
+		(uuid "c2ea3ba6-ca95-42b4-a680-472817b19929")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "+"
+		(at 0 -1.905 0)
+		(layer "F.SilkS")
+		(uuid "e70426a4-c3cb-401e-9a4f-ea17f37fc848")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "-"
+		(at 0 1.905 0)
+		(layer "F.Fab")
+		(uuid "6c68d94a-a98a-48b4-a93e-7aa78f3ac860")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "+"
+		(at 0 -1.905 0)
+		(layer "F.Fab")
+		(uuid "b4b3cf04-973a-4d31-86c3-92270dc02c82")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 1.9 -2.25)
+		(size 1.3 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "5a9982fc-b555-42f0-b11f-af0a176cb3e6")
+	)
+	(pad "N" smd rect
+		(at -1.6 2.25)
+		(size 1.3 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "9e5f30aa-aac7-4847-b820-dccb3a5a2b43")
+	)
+	(pad "P" smd rect
+		(at -1.6 -2.25)
+		(size 1.3 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "c425cda7-883d-4464-a049-445d525a4807")
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/CMT-0525-75-SMT-TR/CMT-0525-75-SMT-TR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)

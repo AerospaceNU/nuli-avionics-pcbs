@@ -1,0 +1,555 @@
+(footprint "ZX62-AB-5PA_31_"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 5.6 0.85 0)
+		(layer "F.SilkS")
+		(uuid "e224500d-9fde-4faf-b3b3-fc6abd463f12")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ZX62-AB-5PA_31_"
+		(at 8.82 -5.525 0)
+		(layer "F.Fab")
+		(uuid "0cdd9210-35db-4f7a-a33b-1791507cdbd9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "26c1a6a1-bf7f-45ff-ad60-96233c550407")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21fe82cc-55f6-4012-837a-38141f1f9f29")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Hirose Electric"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32eb0725-9352-4132-b19e-c814d9bb4e5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "3.00mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57cba385-aff9-4ecf-b5d9-376951b59407")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f42a17d2-99af-4ae7-ac6f-1303d0fda2d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25896450-7ddb-4f66-a283-60a131fc596b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/ZX62-AB-5PA(31)/Hirose/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94d1dc95-1db1-4b1b-9d47-a75a3b641833")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4833654b-5fe0-45e9-a4c3-eb83d64d9aaf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "Jan 1, 2022"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f2e2184-1d20-4a72-8aac-08940df09b96")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/ZX62-AB-5PA(31)/Hirose/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c68ea84-06ff-4fbe-b9e2-186f50341c5b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "ZX62-AB-5PA(31)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e92e1b2-e561-4b69-a87c-24309403c9c5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\nUSB - micro AB USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle\n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ed82929-a215-4c04-8b65-26e1c0cf9079")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5bedf3ef-634d-4664-8cd2-9090f6688eb9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Hirose"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74c40860-0b57-4bc5-ac5b-e542f4c16627")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C132564"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0647eb57-3b94-4b3b-adf8-0970524cb799")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.5 -1.28)
+		(end -4.5 -2.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cfb8a2e1-2144-43ee-bed7-4ca32513f84e")
+	)
+	(fp_line
+		(start 4.5 -2.85)
+		(end 4.5 -1.28)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "323dd48f-84c2-4720-a31c-54de628197fb")
+	)
+	(fp_circle
+		(center -1.2954 -3.8608)
+		(end -1.1954 -3.8608)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3a17b76f-d386-4579-a354-d3a017034b62")
+	)
+	(fp_line
+		(start -5.15 -3.6)
+		(end -5.15 3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8929458a-f230-475b-a7d7-ec7822f497cb")
+	)
+	(fp_line
+		(start -5.15 3)
+		(end 5.15 3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ddde9a1a-559d-486f-b33d-8bc4741236bc")
+	)
+	(fp_line
+		(start 5.15 -3.6)
+		(end -5.15 -3.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "26728bee-9aad-4611-9cb8-cf93752bafc4")
+	)
+	(fp_line
+		(start 5.15 3)
+		(end 5.15 -3.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8045bf5b-d7f2-414b-aac2-83c6a92cda45")
+	)
+	(fp_line
+		(start -4.4 -2.85)
+		(end 4.4 -2.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7f08787b-48d8-4dfb-bc61-fc0884b9ccfa")
+	)
+	(fp_line
+		(start -4.4 2.75)
+		(end -4.4 -2.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0063ee54-e730-4fcd-bdae-e5c661f4a8e5")
+	)
+	(fp_line
+		(start 4.4 -2.85)
+		(end 4.4 2.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3246ece6-a952-4ad1-965f-9b33d1d716b2")
+	)
+	(fp_line
+		(start 4.4 2.75)
+		(end -4.4 2.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7ba524ce-7434-469b-8247-6ef9458b9011")
+	)
+	(fp_line
+		(start 7.25 1.45)
+		(end -5.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "264d95ab-606f-430f-adb7-b21163b12976")
+	)
+	(fp_circle
+		(center -1.2954 -3.8608)
+		(end -1.1954 -3.8608)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1e8bf62c-0eb4-4ab4-8e76-e8e5af0e5aa7")
+	)
+	(fp_text user "PCB Edge"
+		(at 6 1 0)
+		(layer "F.Fab")
+		(uuid "dea4ef7d-5730-4c56-8d84-33b4995cd008")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.3 -2.675)
+		(size 0.4 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "93142644-188b-4d19-bab5-c214ac632e09")
+	)
+	(pad "2" smd rect
+		(at -0.65 -2.675)
+		(size 0.4 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "3af7592e-205a-467c-a97f-abca2f782fef")
+	)
+	(pad "3" smd rect
+		(at 0 -2.675)
+		(size 0.4 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "3133b27e-405f-4cc2-9150-b5c61b9b0586")
+	)
+	(pad "4" smd rect
+		(at 0.65 -2.675)
+		(size 0.4 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "b63bc1bb-5369-49bd-b6a3-d972198fb50b")
+	)
+	(pad "5" smd rect
+		(at 1.3 -2.675)
+		(size 0.4 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "c05c2283-e6b9-4dca-aeb7-1c8cf5e380aa")
+	)
+	(pad "S1" smd rect
+		(at -3.1 -2.55)
+		(size 2.1 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "5cd03adb-5d19-4cc6-9eab-c6115092ca16")
+	)
+	(pad "S2" smd rect
+		(at 3.1 -2.55)
+		(size 2.1 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "8e8f0841-d01f-4ae7-b6f7-ad208ad1badf")
+	)
+	(pad "S3" smd rect
+		(at -4 0)
+		(size 1.8 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "1326bef8-c65f-46a4-8cac-4a94265b8b8b")
+	)
+	(pad "S4" smd rect
+		(at -1.2 0)
+		(size 1.9 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "8689bf1e-18ab-4102-abf1-17beab34e7de")
+	)
+	(pad "S5" smd rect
+		(at 1.2 0)
+		(size 1.9 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "8661d089-b205-4cb6-a1e8-693c633346ee")
+	)
+	(pad "S6" smd rect
+		(at 4 0)
+		(size 1.8 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "7e570ba2-7812-4341-82f2-2512453c95d5")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "53126848-93de-4761-bb45-938e24639b4c")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -1.3 -2) (xy -1.3 -0.95) (xy -0.25 -0.95) (xy -0.25 0.95) (xy -1.3 0.95) (xy -1.3 1.45) (xy 1.3 1.45)
+				(xy 1.3 0.95) (xy 0.25 0.95) (xy 0.25 -0.95) (xy 1.3 -0.95) (xy 1.3 -2)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "88322482-e467-4cc9-8c33-a75d0c6d82c3")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy 1.3 -2) (xy 1.3 -0.95) (xy 2.15 -0.95) (xy 2.15 0.95) (xy 1.3 0.95) (xy 1.3 1.45) (xy 3.75 1.45)
+				(xy 3.75 0.95) (xy 3.1 0.95) (xy 3.1 -0.95) (xy 3.75 -0.95) (xy 3.75 -1.75) (xy 2.05 -1.75) (xy 2.05 -2)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "024f9443-5432-4e73-96cd-760df55db05b")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -3.75 1.45) (xy -3.75 0.95) (xy -3.1 0.95) (xy -3.1 -0.95) (xy -3.75 -0.95) (xy -3.75 -1.75)
+				(xy -2.05 -1.75) (xy -2.05 -2) (xy -1.3 -2) (xy -1.3 -0.95) (xy -2.15 -0.95) (xy -2.15 0.9) (xy -2.15 0.95)
+				(xy -1.3 0.95) (xy -1.3 1.45)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/ZX62-AB-5PA_31_/ZX62-AB-5PA_31_.step"
+		(offset
+			(xyz 3.5 3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+)

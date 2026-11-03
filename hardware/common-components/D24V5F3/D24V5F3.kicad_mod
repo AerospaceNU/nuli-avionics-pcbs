@@ -1,0 +1,121 @@
+(footprint "D24V5F3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.0575 -0.27 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e1ab445c-0205-4954-aee4-1eaff8cdc510")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "D24V5F3"
+		(at 8.8425 -7.305 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "23ba7d81-d90b-4fad-8ac5-5a967e78bd6d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e3081dc-c563-41d6-96e0-9065ddec1f90")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e02e06e-b7f4-4c49-a45b-50072c81bdea")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start 0 -12.7)
+		(end 10.16 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "774aae94-63c5-443f-a650-9a9e3e8a5056")
+	)
+	(fp_rect
+		(start -0.3 -13)
+		(end 10.46 0.3)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "53320262-5e8c-4db9-93f5-e62b0a758646")
+	)
+	(pad "1" thru_hole circle
+		(at 8.89 -1.27)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "059185ad-be89-4e36-814e-191bc2861b1f")
+	)
+	(pad "2" thru_hole circle
+		(at 6.35 -1.27)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c9318a9b-f863-4661-ade7-1b2e0a16fc82")
+	)
+	(pad "3" thru_hole circle
+		(at 3.81 -1.27)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f1ef3cfd-cd66-4b3b-9b07-4d921fb2a6bd")
+	)
+	(pad "4" thru_hole circle
+		(at 1.27 -1.27)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c24265a2-3756-4802-8555-2fee7f312fd3")
+	)
+	(embedded_fonts no)
+	(model "${NULI_AVIONICS_COMMON}/D24V5F3/D24V5F3.step"
+		(offset
+			(xyz 0 0 2.54)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

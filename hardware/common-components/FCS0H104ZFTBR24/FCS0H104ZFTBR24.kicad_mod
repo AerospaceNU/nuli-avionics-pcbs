@@ -1,0 +1,121 @@
+(footprint "FCS0H104ZFTBR24"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -6.731 3.429 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9d963e85-af39-4be7-82cd-c118b1d9a305")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "FCS0H104ZFTBR24"
+		(at 0 -13.74 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "02133ca4-692b-4aef-afa2-40e30a6e15b1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0afd2ed2-9f3c-4ce5-aef2-d375e04e728d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Polarized capacitor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cce01d21-a10f-4d12-93a0-271e54677fc4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -6 -6) (xy 3 -6) (xy 6 -2.54) (xy 6 2.54) (xy 3 6) (xy -6 6)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "99405910-5da3-44a6-9413-3bec128c33b7")
+	)
+	(fp_rect
+		(start -7.65 -13.33825)
+		(end 7.875553 6.31)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "962f14e0-72e4-4f82-be21-f21b3bf259f3")
+	)
+	(fp_text user "+"
+		(at 4.349363 -4.207418 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "621f75cc-ead7-4a90-aff5-79aba4e1fed9")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -12.24 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d695c159-ad8c-4d2e-bc8b-444f708221bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 4.95 0)
+		(size 4.9 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "7760649d-f19a-4670-8719-35553f6e0017")
+	)
+	(pad "2" smd roundrect
+		(at -4.95 0)
+		(size 4.9 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "f95f709b-3d48-4d04-b121-741d2163ff13")
+	)
+	(embedded_fonts no)
+)
