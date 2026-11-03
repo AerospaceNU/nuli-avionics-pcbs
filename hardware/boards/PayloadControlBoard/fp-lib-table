@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "payloadV1")(type "KiCad")(uri "${KIPRJMOD}/payloadV1.pretty")(options "")(descr ""))
+  (lib (name "S25FL512SAGMFIG13")(type "KiCad")(uri "C:/Users/riley/Documents/Avionics/NULI-Payload/V1/S25FL512SAGMFIG13")(options "")(descr ""))
+)
