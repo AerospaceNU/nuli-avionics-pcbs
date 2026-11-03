@@ -32,6 +32,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+# ...except a board's fabrication outputs, which include its BOM and pick-and-place files (see README)
+!hardware/boards/*/fabrication/**/*.csv
+
+# Component folders are named after part numbers, which can end like the patterns above (TXETBlSANF-40.000)
+!hardware/common-components/*/
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
