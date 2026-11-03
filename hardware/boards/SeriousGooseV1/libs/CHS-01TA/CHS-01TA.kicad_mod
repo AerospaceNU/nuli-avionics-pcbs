@@ -1,0 +1,100 @@
+(footprint "CHS-01TA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.026023 -4.50893 0)
+		(layer "F.SilkS")
+		(uuid "e4382475-be16-45f3-bb5d-01e22476c09e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CHS-01TA"
+		(at 0.839974 4.253187 0)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "aa68243c-f8ea-47a6-b549-beff977868f3")
+		(effects
+			(font
+				(size 0.480902 0.480902)
+				(thickness 0.120226)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58c7837c-b5e5-415e-a1e1-d522d7b232ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42ca6fe4-d8a0-42b2-bfa8-0b4275d79cf6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.25 -2.8)
+		(end -1.25 2.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "86fc4584-269b-461e-97ae-bb03772e68e0")
+	)
+	(fp_line
+		(start 1.25 -2.8)
+		(end 1.25 2.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f7bb9fcc-ca02-40c0-81b5-b3ef65cd9183")
+	)
+	(pad "1" smd rect
+		(at 0 2.54)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "6da1e052-6e8a-4255-b439-9c8903349cf4")
+	)
+	(pad "2" smd rect
+		(at 0 -2.54)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "c59075d8-356d-4650-bf78-076db9672305")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/libs/CHS-01TA/CHS-01TA.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)
