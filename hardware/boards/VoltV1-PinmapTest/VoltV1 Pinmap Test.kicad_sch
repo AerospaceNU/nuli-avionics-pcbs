@@ -1,0 +1,308 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6b65f6f9-3083-4ea5-bef1-b5661aca9200")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 53.34 46.99) (xy 83.82 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1726aa38-9289-4557-ab41-12c8c3ee35ff")
+	)
+	(wire
+		(pts
+			(xy 53.34 44.45) (xy 83.82 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2accf7d0-f6ef-4e9f-9932-81dcc6c5baac")
+	)
+	(wire
+		(pts
+			(xy 53.34 39.37) (xy 83.82 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47a24933-d325-496f-afda-d4d38671361a")
+	)
+	(wire
+		(pts
+			(xy 53.34 41.91) (xy 83.82 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7878ef51-717b-49af-b337-0ca6bff71955")
+	)
+	(wire
+		(pts
+			(xy 53.34 49.53) (xy 83.82 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94f31215-821b-443a-8a71-323828014702")
+	)
+	(wire
+		(pts
+			(xy 53.34 52.07) (xy 83.82 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab70764f-29d0-4981-a610-d5e849268ce3")
+	)
+	(wire
+		(pts
+			(xy 53.34 36.83) (xy 83.82 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0623db0-097f-40a2-840f-3602be2b3241")
+	)
+	(sheet
+		(at 31.75 34.29)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2d0e86fe-daf1-4d02-b1e2-306fc8776996")
+		(property "Sheetname" "pwr"
+			(at 31.75 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pwr.kicad_sch"
+			(at 31.75 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" input
+			(at 53.34 36.83 0)
+			(uuid "1f140928-28ea-43b7-8f31-42bdc9c33cae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D-" input
+			(at 53.34 39.37 0)
+			(uuid "baf9ec9c-a6fc-4d4d-9470-e0afb96aa4b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RESETN" input
+			(at 53.34 41.91 0)
+			(uuid "bddb89f3-4a9e-4bba-83a9-370001c9023c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDDANA" output
+			(at 53.34 44.45 0)
+			(uuid "7ac14af6-83b9-47db-bd59-637821768039")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDDCORE" input
+			(at 53.34 46.99 0)
+			(uuid "b706800d-3574-46d4-a105-28bb4f02399d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDDIO3.3" input
+			(at 53.34 49.53 0)
+			(uuid "a0133f74-6173-4f70-a260-01b322e252cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VSW" input
+			(at 53.34 52.07 0)
+			(uuid "fa3febab-87d5-46ba-8322-916dbcf8addb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "VoltV1 Pinmap Test"
+				(path "/6b65f6f9-3083-4ea5-bef1-b5661aca9200"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.82 34.29)
+		(size 33.02 124.46)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c325e91e-e756-4f68-9a48-9a6309294405")
+		(property "Sheetname" "mcu"
+			(at 83.82 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 83.82 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D+" input
+			(at 83.82 36.83 180)
+			(uuid "bb30f43f-5881-48ae-a90f-bfa9c42ece0f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" input
+			(at 83.82 39.37 180)
+			(uuid "4905ec1b-1eb9-4589-8569-d995c443c81c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RESETN" input
+			(at 83.82 41.91 180)
+			(uuid "40c68252-4086-40da-99a3-44db62b6e91c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDDANA" output
+			(at 83.82 44.45 180)
+			(uuid "90a5d441-26b0-480c-b572-1637434b0079")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDDCORE" input
+			(at 83.82 46.99 180)
+			(uuid "3a85b1c7-8a04-4b38-a288-3829f25a61ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDDIO3.3" input
+			(at 83.82 49.53 180)
+			(uuid "c2f69067-c767-4809-b105-87b30788114e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VSW" input
+			(at 83.82 52.07 180)
+			(uuid "3d7bdf14-1011-4098-b9bb-aa2c85494459")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "VoltV1 Pinmap Test"
+				(path "/6b65f6f9-3083-4ea5-bef1-b5661aca9200"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
