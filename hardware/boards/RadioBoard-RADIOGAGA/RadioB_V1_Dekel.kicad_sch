@@ -1,0 +1,249 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8dfb244b-2ac0-49fb-9fc0-c99e496c2c14")
+	(paper "User" 250 180)
+	(lib_symbols)
+	(text "BLOCK DIAGRAM CONTROL SYSTEMS STYLE\n\ncoming "
+		(exclude_from_sim no)
+		(at 124.206 44.196 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+		)
+		(uuid "36723615-4d11-4ad7-971e-2ad9f41fabec")
+	)
+	(text "RADIO GAGA"
+		(exclude_from_sim no)
+		(at 96.52 23.876 0)
+		(effects
+			(font
+				(size 6 6)
+			)
+			(justify left)
+		)
+		(uuid "eba8ce62-5a3c-43ae-abe7-812a2da071a2")
+	)
+	(sheet
+		(at 33.528 40.894)
+		(size 58.166 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "095404f4-5019-4b2e-859a-7debc555be4e")
+		(property "Sheetname" "MCU"
+			(at 33.274 40.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 33.528 52.9086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RadioB_V1_Dekel"
+				(path "/8dfb244b-2ac0-49fb-9fc0-c99e496c2c14"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.274 58.674)
+		(size 58.42 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "24a96715-1e76-4ea7-bc8a-dbc14119eb20")
+		(property "Sheetname" "RF Module"
+			(at 33.274 57.9624 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RF Module.kicad_sch"
+			(at 33.274 71.9586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RadioB_V1_Dekel"
+				(path "/8dfb244b-2ac0-49fb-9fc0-c99e496c2c14"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.274 94.234)
+		(size 58.42 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7c4d4a2e-5f28-459e-b6e0-f324bcd42033")
+		(property "Sheetname" "Pinouts"
+			(at 33.274 93.5224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pinouts.kicad_sch"
+			(at 33.274 108.7886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RadioB_V1_Dekel"
+				(path "/8dfb244b-2ac0-49fb-9fc0-c99e496c2c14"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 32.766 113.03)
+		(size 58.928 12.446)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cb75b148-5cca-4171-b83f-86b2a5960137")
+		(property "Sheetname" "Power"
+			(at 32.766 112.3184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 32.766 126.0606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RadioB_V1_Dekel"
+				(path "/8dfb244b-2ac0-49fb-9fc0-c99e496c2c14"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.274 76.454)
+		(size 58.42 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f5e76aee-3a9e-4814-8e4f-3bd6445f6bc0")
+		(property "Sheetname" "Connectors"
+			(at 33.274 75.7424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 33.274 89.7386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RadioB_V1_Dekel"
+				(path "/8dfb244b-2ac0-49fb-9fc0-c99e496c2c14"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
