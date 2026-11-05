@@ -1,4 +1,4 @@
-# AvionicsRadioBoardCameras-2026V1
+# AvionicsRadioBoardCameras-2026
 
 2026 avionics radio board: an ATSAMD21 with an E22-900MM22S LoRa module and SMA antenna connector.
 
@@ -15,8 +15,8 @@ SaiCharan Challapalli
 
 2026 avionics radio board: an ATSAMD21 (QFN-48) with an E22-900MM22S LoRa module and SMA antenna connector.
 
-- KiCad project: `AvionicsRadioBoardCameras-2026V1.kicad_pro`, last saved with KiCad 10.0
-- Schematic sheets: `AvionicsRadioBoardCameras-2026V1.kicad_sch` (single sheet)
+- KiCad project: `AvionicsRadioBoardCameras-2026.kicad_pro`, last saved with KiCad 10.0
+- Schematic sheets: `AvionicsRadioBoardCameras-2026.kicad_sch` (single sheet)
 - Board size: 76.8 x 50.1 mm
 - `libs/`: the board's own symbols, footprints and 3D models
   - `ABS07-32.768KHZ-T/`: crystal symbol and footprints, with its STEP
