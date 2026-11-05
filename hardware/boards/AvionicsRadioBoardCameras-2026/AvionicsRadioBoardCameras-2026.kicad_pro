@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AvionicsRadioBoardCameras-2026V1.kicad_pro",
+    "filename": "AvionicsRadioBoardCameras-2026.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -648,7 +648,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "AvionicsRadioBoardCameras-2026V1.kicad_sch",
+        "filename": "AvionicsRadioBoardCameras-2026.kicad_sch",
         "name": "Root",
         "uuid": "c727a108-3db5-4bbd-a3ba-6b3e5ce833c0"
       }
