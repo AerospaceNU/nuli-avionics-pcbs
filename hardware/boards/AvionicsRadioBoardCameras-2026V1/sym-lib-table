@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ABS07-32.768KHZ-T")(type "KiCad")(uri "${KIPRJMOD}/libs/ABS07-32.768KHZ-T/ABS07-32.768KHZ-T.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/libs/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+)
