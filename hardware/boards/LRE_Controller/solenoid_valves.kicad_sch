@@ -1,0 +1,350 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "582f2303-becc-4d94-a709-f05e080271d6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 92.71 127)
+		(size 21.59 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "01455fa7-d26e-40de-a04c-1926808e110d")
+		(property "Sheetname" "solenoid_valve_circuit4"
+			(at 92.71 126.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "solenoid_valve_circuit.kicad_sch"
+			(at 92.71 145.3646 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "mcu_input_5V" input
+			(at 92.71 135.89 180)
+			(uuid "7438159c-ce53-4724-870e-a95d761f26cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LRE_Controller"
+				(path "/b27bef7b-72d9-475e-9417-80b6d20be6a1/da4b7737-deb5-4fbc-ad19-e04d203acb2e"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 106.68)
+		(size 21.59 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3c9f2b31-dd99-4f39-9c74-b88199dfa41c")
+		(property "Sheetname" "solenoid_valve_circuit3"
+			(at 92.71 105.9684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "solenoid_valve_circuit.kicad_sch"
+			(at 92.71 125.0446 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "mcu_input_5V" input
+			(at 92.71 115.57 180)
+			(uuid "e080924f-8c89-4f39-9535-1241bf4837d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LRE_Controller"
+				(path "/b27bef7b-72d9-475e-9417-80b6d20be6a1/da4b7737-deb5-4fbc-ad19-e04d203acb2e"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 45.72)
+		(size 21.59 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "449ac166-3073-4a13-b128-056cdd657cbc")
+		(property "Sheetname" "solenoid_valve_circuit"
+			(at 92.71 45.0084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "solenoid_valve_circuit.kicad_sch"
+			(at 92.71 64.0846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "mcu_input_5V" input
+			(at 92.71 54.61 180)
+			(uuid "61ece72e-7168-4b16-93f1-49a82bd0e3f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LRE_Controller"
+				(path "/b27bef7b-72d9-475e-9417-80b6d20be6a1/da4b7737-deb5-4fbc-ad19-e04d203acb2e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 86.36)
+		(size 21.59 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6b7ca858-2de9-4fe8-abab-409888a2e1d6")
+		(property "Sheetname" "solenoid_valve_circuit2"
+			(at 92.71 85.6484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "solenoid_valve_circuit.kicad_sch"
+			(at 92.71 104.7246 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "mcu_input_5V" input
+			(at 92.71 95.25 180)
+			(uuid "3df708da-7e04-4ca1-9791-91799603e972")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LRE_Controller"
+				(path "/b27bef7b-72d9-475e-9417-80b6d20be6a1/da4b7737-deb5-4fbc-ad19-e04d203acb2e"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 147.32)
+		(size 21.59 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "70ad3c08-53df-4c1e-99da-9438761bc2ab")
+		(property "Sheetname" "solenoid_valve_circuit5"
+			(at 92.71 146.6084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "solenoid_valve_circuit.kicad_sch"
+			(at 92.71 165.6846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "mcu_input_5V" input
+			(at 92.71 156.21 180)
+			(uuid "955efef9-4f0c-4600-94cc-6c092b63160c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LRE_Controller"
+				(path "/b27bef7b-72d9-475e-9417-80b6d20be6a1/da4b7737-deb5-4fbc-ad19-e04d203acb2e"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 66.04)
+		(size 21.59 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9dfee165-2ac9-4f59-8f21-8cec275411da")
+		(property "Sheetname" "solenoid_valve_circuit1"
+			(at 92.71 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "solenoid_valve_circuit.kicad_sch"
+			(at 92.71 84.4046 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "mcu_input_5V" input
+			(at 92.71 74.93 180)
+			(uuid "7eaffd1e-ce05-4bf6-9762-a8ec7be8f1cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LRE_Controller"
+				(path "/b27bef7b-72d9-475e-9417-80b6d20be6a1/da4b7737-deb5-4fbc-ad19-e04d203acb2e"
+					(page "8")
+				)
+			)
+		)
+	)
+)
